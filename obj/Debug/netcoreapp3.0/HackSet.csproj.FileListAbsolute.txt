@@ -1,0 +1,46 @@
+C:/Users/scott/Documents/Projects/C#/HackSet/bin/Debug/netcoreapp3.0/HackSet.exe
+C:/Users/scott/Documents/Projects/C#/HackSet/bin/Debug/netcoreapp3.0/HackSet.deps.json
+C:/Users/scott/Documents/Projects/C#/HackSet/bin/Debug/netcoreapp3.0/HackSet.runtimeconfig.json
+C:/Users/scott/Documents/Projects/C#/HackSet/bin/Debug/netcoreapp3.0/HackSet.runtimeconfig.dev.json
+C:/Users/scott/Documents/Projects/C#/HackSet/bin/Debug/netcoreapp3.0/HackSet.dll
+C:/Users/scott/Documents/Projects/C#/HackSet/bin/Debug/netcoreapp3.0/HackSet.pdb
+C:/Users/scott/Documents/Projects/C#/HackSet/obj/Debug/netcoreapp3.0/HackSet.csprojAssemblyReference.cache
+C:/Users/scott/Documents/Projects/C#/HackSet/obj/Debug/netcoreapp3.0/HackSet.AssemblyInfoInputs.cache
+C:/Users/scott/Documents/Projects/C#/HackSet/obj/Debug/netcoreapp3.0/HackSet.AssemblyInfo.cs
+C:/Users/scott/Documents/Projects/C#/HackSet/obj/Debug/netcoreapp3.0/HackSet.dll
+C:/Users/scott/Documents/Projects/C#/HackSet/obj/Debug/netcoreapp3.0/HackSet.pdb
+/Volumes/Data/Users U18/Scott/C#/HackSet/bin/Debug/netcoreapp3.0/HackSet
+/Volumes/Data/Users U18/Scott/C#/HackSet/bin/Debug/netcoreapp3.0/HackSet.deps.json
+/Volumes/Data/Users U18/Scott/C#/HackSet/bin/Debug/netcoreapp3.0/HackSet.runtimeconfig.json
+/Volumes/Data/Users U18/Scott/C#/HackSet/bin/Debug/netcoreapp3.0/HackSet.runtimeconfig.dev.json
+/Volumes/Data/Users U18/Scott/C#/HackSet/bin/Debug/netcoreapp3.0/HackSet.dll
+/Volumes/Data/Users U18/Scott/C#/HackSet/bin/Debug/netcoreapp3.0/HackSet.pdb
+/Volumes/Data/Users U18/Scott/C#/HackSet/obj/Debug/netcoreapp3.0/HackSet.csprojAssemblyReference.cache
+/Volumes/Data/Users U18/Scott/C#/HackSet/obj/Debug/netcoreapp3.0/HackSet.AssemblyInfoInputs.cache
+/Volumes/Data/Users U18/Scott/C#/HackSet/obj/Debug/netcoreapp3.0/HackSet.AssemblyInfo.cs
+/Volumes/Data/Users U18/Scott/C#/HackSet/obj/Debug/netcoreapp3.0/HackSet.dll
+/Volumes/Data/Users U18/Scott/C#/HackSet/obj/Debug/netcoreapp3.0/HackSet.pdb
+C:\Users\scott\Desktop\HackSet\bin\Debug\netcoreapp3.0\HackSet.exe
+C:\Users\scott\Desktop\HackSet\bin\Debug\netcoreapp3.0\HackSet.deps.json
+C:\Users\scott\Desktop\HackSet\bin\Debug\netcoreapp3.0\HackSet.runtimeconfig.json
+C:\Users\scott\Desktop\HackSet\bin\Debug\netcoreapp3.0\HackSet.runtimeconfig.dev.json
+C:\Users\scott\Desktop\HackSet\bin\Debug\netcoreapp3.0\HackSet.dll
+C:\Users\scott\Desktop\HackSet\bin\Debug\netcoreapp3.0\HackSet.pdb
+C:\Users\scott\Desktop\HackSet\obj\Debug\netcoreapp3.0\HackSet.csprojAssemblyReference.cache
+C:\Users\scott\Desktop\HackSet\obj\Debug\netcoreapp3.0\HackSet.AssemblyInfoInputs.cache
+C:\Users\scott\Desktop\HackSet\obj\Debug\netcoreapp3.0\HackSet.AssemblyInfo.cs
+C:\Users\scott\Desktop\HackSet\obj\Debug\netcoreapp3.0\HackSet.dll
+C:\Users\scott\Desktop\HackSet\obj\Debug\netcoreapp3.0\HackSet.pdb
+C:\Users\scott\Documents\Projects\HackSet\bin\Debug\netcoreapp3.0\HackSet.exe
+C:\Users\scott\Documents\Projects\HackSet\bin\Debug\netcoreapp3.0\HackSet.deps.json
+C:\Users\scott\Documents\Projects\HackSet\bin\Debug\netcoreapp3.0\HackSet.runtimeconfig.json
+C:\Users\scott\Documents\Projects\HackSet\bin\Debug\netcoreapp3.0\HackSet.runtimeconfig.dev.json
+C:\Users\scott\Documents\Projects\HackSet\bin\Debug\netcoreapp3.0\HackSet.dll
+C:\Users\scott\Documents\Projects\HackSet\bin\Debug\netcoreapp3.0\HackSet.pdb
+C:\Users\scott\Documents\Projects\HackSet\obj\Debug\netcoreapp3.0\HackSet.csprojAssemblyReference.cache
+C:\Users\scott\Documents\Projects\HackSet\obj\Debug\netcoreapp3.0\HackSet.csproj.CoreCompileInputs.cache
+C:\Users\scott\Documents\Projects\HackSet\obj\Debug\netcoreapp3.0\HackSet.AssemblyInfoInputs.cache
+C:\Users\scott\Documents\Projects\HackSet\obj\Debug\netcoreapp3.0\HackSet.AssemblyInfo.cs
+C:\Users\scott\Documents\Projects\HackSet\obj\Debug\netcoreapp3.0\HackSet.dll
+C:\Users\scott\Documents\Projects\HackSet\obj\Debug\netcoreapp3.0\HackSet.pdb
+C:\Users\scott\Documents\Projects\HackSet\obj\Debug\netcoreapp3.0\HackSet.genruntimeconfig.cache

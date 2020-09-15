@@ -1,0 +1,12 @@
+C:\Users\scott\Documents\Projects\HackSet\bin\Release\netcoreapp3.0\HackSet.exe
+C:\Users\scott\Documents\Projects\HackSet\bin\Release\netcoreapp3.0\HackSet.deps.json
+C:\Users\scott\Documents\Projects\HackSet\bin\Release\netcoreapp3.0\HackSet.runtimeconfig.json
+C:\Users\scott\Documents\Projects\HackSet\bin\Release\netcoreapp3.0\HackSet.runtimeconfig.dev.json
+C:\Users\scott\Documents\Projects\HackSet\bin\Release\netcoreapp3.0\HackSet.dll
+C:\Users\scott\Documents\Projects\HackSet\bin\Release\netcoreapp3.0\HackSet.pdb
+C:\Users\scott\Documents\Projects\HackSet\obj\Release\netcoreapp3.0\HackSet.csproj.CoreCompileInputs.cache
+C:\Users\scott\Documents\Projects\HackSet\obj\Release\netcoreapp3.0\HackSet.AssemblyInfoInputs.cache
+C:\Users\scott\Documents\Projects\HackSet\obj\Release\netcoreapp3.0\HackSet.AssemblyInfo.cs
+C:\Users\scott\Documents\Projects\HackSet\obj\Release\netcoreapp3.0\HackSet.dll
+C:\Users\scott\Documents\Projects\HackSet\obj\Release\netcoreapp3.0\HackSet.pdb
+C:\Users\scott\Documents\Projects\HackSet\obj\Release\netcoreapp3.0\HackSet.genruntimeconfig.cache
