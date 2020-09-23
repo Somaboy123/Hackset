@@ -10,3 +10,4 @@ C:\Users\scott\Documents\Projects\HackSet\obj\Release\netcoreapp3.0\HackSet.Asse
 C:\Users\scott\Documents\Projects\HackSet\obj\Release\netcoreapp3.0\HackSet.dll
 C:\Users\scott\Documents\Projects\HackSet\obj\Release\netcoreapp3.0\HackSet.pdb
 C:\Users\scott\Documents\Projects\HackSet\obj\Release\netcoreapp3.0\HackSet.genruntimeconfig.cache
+C:\Users\scott\Documents\Projects\HackSet\obj\Release\netcoreapp3.0\HackSet.csprojAssemblyReference.cache
